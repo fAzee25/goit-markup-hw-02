@@ -78,6 +78,10 @@ button{
     letter-spacing: 0.02em;
 }
 
+.nav-link{
+    color:#2e2f42;
+}
+
 .nav-link-item:hover,
 .nav-link-item:focus {
     color:#404BBF;
@@ -132,7 +136,9 @@ button{
 
 .benefits-section {}
 
-.benefits-title {}
+.benefits-title {
+    color:#2e2f42;
+}
 
 .benefits-list {}
 
@@ -150,6 +156,7 @@ button{
 
 .team-title {
     text-align: center;
+    color:#2e2f42;
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
@@ -176,6 +183,7 @@ button{
 .portfolio-title {
     text-align: center;
     font-size: 36px;
+    color:#2e2f42;
     font-weight: 700;
     line-height: 1.11;
     letter-spacing: 0.02em;
